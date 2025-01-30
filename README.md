@@ -15,7 +15,6 @@ Here're some of the project's best features:
 *   quickly see if a site is working
 *   completely free api
 
-<h2>🛠️ Installation Steps:</h2>
 
 <h2>🍰 Contribution Guidelines:</h2>
 
